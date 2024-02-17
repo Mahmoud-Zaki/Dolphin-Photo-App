@@ -17,3 +17,8 @@ And the project includes unit tests.
 ## Tests
 
 This project includes unit tests for the DolphinPhotosBloc class. The tests are written using the Flutter testing framework.
+
+
+https://github.com/Mahmoud-Zaki/Dolphin-Photo-App/assets/60368259/ef033328-1019-48cc-9e72-161332b443f1
+
+https://github.com/Mahmoud-Zaki/Dolphin-Photo-App/assets/60368259/c9e3000f-c83a-4252-a8c2-e4c5860a3bcd
